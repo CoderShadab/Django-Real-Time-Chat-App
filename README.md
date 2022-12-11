@@ -4,7 +4,7 @@
 How-To: Run This
 
 
-First In Your Command Line, In The Desired Location git clone https://github.com/CoderShadab/Django-Real-Time-Chat-App.git wait for it download
+First In Your Command Line, In The Desired Location "git clone https://github.com/CoderShadab/Django-Real-Time-Chat-App.git" wait for it download
 
 Navigate Where The File Was Downloaded Open Up The Folder. Then In You Command Line- python manage.py migrate
 
